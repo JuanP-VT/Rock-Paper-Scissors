@@ -61,6 +61,13 @@ if (playerChoice == 'rock' | playerChoice == 'paper' | playerChoice == 'scissors
     console.log(result);
 
   
+if (result == 'win'){
+    playerScore ++;
+}
+if (result == 'lose')
+    pcScore ++;
+console.log("Pc Score :"+ " " + pcScore);
+console.log("Player Score :"+ " " + playerScore);
 
 } else {
     alert('Please Choose Correctly');

@@ -44,6 +44,7 @@ background: linear-gradient(90deg, rgba(187,191,191,1) 0%, rgba(134,170,185,1) 3
     margin-bottom: 15px;
     width: 100px;
     
+    
 }
 
 .imgProfile{
@@ -90,6 +91,13 @@ img{
     text-align: center;
 }
 
+.character:hover{
+    transform: scale(1.2);
+    border: solid wheat;
+}
+
+
+
 .subselect + .bot{
     margin-top: 50px;
 }
@@ -103,3 +111,10 @@ img{
     align-items: center;
 }
 
+.winner{
+    border: solid green;
+}
+
+.loser{
+    border: solid red;
+}

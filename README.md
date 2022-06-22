@@ -1,13 +1,16 @@
-# Rock-Paper-Scissors
+# Rock Paper Scissors Game
 
-1- This is my first project working with basic javascript.
+## What is this ?
 
-2- It is a simple Rock- Paper Scissors games , the first one to win 5 gets the match.
+This project is part of my **Curriculum Series**, the objective is to have a repository to prove my skills as a web developer.
 
-//* 3- This is the first version, it is played through the console. 
+My first encounter with javascript, here I created a simple rock-paper-scissor game vs the PC after I learned the basics of the language, conditionals statements, functions,loops etc.
+Later on I revisited this project and added DOM methods to play the game outside the console.
 
+The focus of this small app game is to get practice and understand how to logically put code together.
 
-*Updated * 
-Now the game is played with clicks , added more dynamism with js and DOM methods.
+## Objective
 
-
+- Get practice with my new javascript knowledge
+- Get practice with DOM methods
+- Try to create readable/understandable code
